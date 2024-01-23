@@ -1,0 +1,4 @@
+service : {
+    pkey : (vec nat) -> (variant { Ok: text; Err: text });
+    sign : (vec nat, text) -> (variant { Ok: text; Err: text });
+}

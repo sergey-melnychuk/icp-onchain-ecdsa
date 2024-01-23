@@ -1,0 +1,9 @@
+{
+  "canisters": {
+    "signer": {
+      "candid": "signer/signer.did",
+      "package": "signer",
+      "type": "rust"
+    }
+  }
+}
